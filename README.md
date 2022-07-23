@@ -50,13 +50,26 @@ Dentro do diretório com o arquivo *docker-compose.yml*, executar o comando *doc
 ## PRINTS COM O FUNCIONAMENTO DA APLICAÇÃO
 ![image](https://user-images.githubusercontent.com/29930488/180614622-0f1caff3-7450-4595-940e-c4cb6ec7f0a2.png)
 ![image](https://user-images.githubusercontent.com/29930488/180614636-59fb02a2-f391-430c-91ac-14ebb5ba0ffa.png)
-*Enviando um objeto drone com os dados capturados*<br />
+*Enviando um objeto drone com as informações coletadas*<br /><br />
 
 ![image](https://user-images.githubusercontent.com/29930488/180614779-3b8f5514-93a4-4b3a-a407-6dff584ce92a.png)
-*Producer no ar e enviando informações coletadas do drone*<br />
+*Producer no ar e enviando informações coletadas do drone*<br /><br />
 
 ![image](https://user-images.githubusercontent.com/29930488/180614818-5980017f-d073-4da7-917c-1abab8d043dd.png)
-*Consumer no ar e recebendo informações coletadas do drone*<br />
+*Consumer no ar e recebendo informações coletadas do drone*<br /><br />
+
+![image](https://user-images.githubusercontent.com/29930488/180614962-9506ca42-0647-46c9-b66d-f894b3df014d.png)
+*Enviando um objeto drone com as informações coletadas foram dos padrões de temperatura e umidade*<br /><br />
+
+![image](https://user-images.githubusercontent.com/29930488/180614975-96b474c7-2a8a-4320-abb1-394c90fdae6a.png)
+*Producer no ar e enviando informações coletadas do drone fora dos padões*<br /><br />
+
+![image](https://user-images.githubusercontent.com/29930488/180615005-4384580f-102c-4b1a-92df-637513da55b6.png)
+*Consumer no ar e recebendo informações coletadas do drone fora dos padrões*<br /><br />
+
+
+
+
 
 
 
