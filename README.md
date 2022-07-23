@@ -65,14 +65,17 @@ Dentro do diretório com o arquivo *docker-compose.yml*, executar o comando *doc
 *Producer no ar e enviando informações coletadas do drone fora dos padões*<br /><br />
 
 ![image](https://user-images.githubusercontent.com/29930488/180615005-4384580f-102c-4b1a-92df-637513da55b6.png)
-*Consumer no ar e recebendo informações coletadas do drone fora dos padrões*<br /><br />
+*Consumer no ar e recebendo informações coletadas do drone fora dos padrões. Informando o dado recebido e quais valores esperados*<br /><br />
 
+![image](https://user-images.githubusercontent.com/29930488/180615102-5cde8bf2-5f1f-4b37-ae15-7c29c9bd650b.png)
+![image](https://user-images.githubusercontent.com/29930488/180615123-c479d0d9-3feb-46c4-bf7e-4868ad66e658.png)
+*Enviando uma lista objetos drone com as informações coletadas*<br /><br />
 
+![image](https://user-images.githubusercontent.com/29930488/180615141-ee0ae82c-a309-4ef0-a521-717899995a5e.png)
+*Producer no ar e enviando informações coletadas do drone*<br /><br />
 
-
-
-
-
+![image](https://user-images.githubusercontent.com/29930488/180615160-91d6f36c-965c-4b21-9bc8-a613b13dc817.png)
+*Consumer no ar e recebendo informações coletadas do drone*<br /><br />
 
 
 
