@@ -25,13 +25,19 @@
 <br />
 
 ## SOBRE A PROJETO
-### Implementação de um Producer e um Consumer no Apache Kafka, utilizando Java com Spring Boot na versão 2.7.1
+### Implementação de um Producer e um Consumer no Apache Kafka, utilizando Java com Spring Boot na versão 2.7.1 e Docker.
 ### O projeto possui dois serviços:
 **agro-tempo-producer:** Responsável por receber e enviar os dados de um objeto drone ou uma lista de objetos drone para o serviço de consumer.<br />
 **agro-tempo-consumer:** Responsável por consumir os dados enviados do producer, caso a temperatura seja maior ou igual a 35 ou menor ou igual 0, ou a umidade seja menor ou igual a 15% envia e-mail com o o id_drone e os valores capturados.
 <br />
 
 ## COMO RODAR O PROJETO?
+#### Primeiro clonar o respositório do GitHub
+git clone https://github.com/diasRibeirao/projeto-final-integration-development-tools.git <br />
+#### Será necessário rodar o docker-compose.yml para subir uma instancia local do Kafka e do Zookepper
+Dentro do diretório com o arquivo *docker-compose.yml*, executar o comando *docker-compose up –d* <br />
+![image](https://user-images.githubusercontent.com/29930488/180606822-a4e1b760-06b0-4124-89c4-a7a5ee400b52.png)
+*console com o comando docker-compose up –d*
 
 ## PRINTS COM O FUNCIONAMENTO DA APLICAÇÃO
 
