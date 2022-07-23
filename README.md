@@ -39,7 +39,7 @@ Dentro do diretório com o arquivo *docker-compose.yml*, executar o comando *doc
 ![image](https://user-images.githubusercontent.com/29930488/180606822-a4e1b760-06b0-4124-89c4-a7a5ee400b52.png)<br />
 *console com o comando docker-compose up –d*<br /><br />
 
-![image](https://user-images.githubusercontent.com/29930488/180606890-6caebf01-a9df-4923-816d-d35bfd381e5c.png)
+![image](https://user-images.githubusercontent.com/29930488/180606890-6caebf01-a9df-4923-816d-d35bfd381e5c.png)<br />
 *Container com a imagem do zookepper e o kafka*<br /><br />
 
 ### Com o container no ar, executar o projeto localmente (agro-tempo-producer e agro-tempo-consumer), no projeto agro-tempo-producer, via OpenApi, é mostrado os dois endpoints disponíveis (*http://localhost:8081/swagger-ui/index.html*).
