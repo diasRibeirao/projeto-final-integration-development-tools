@@ -40,12 +40,12 @@ Dentro do diretório com o arquivo *docker-compose.yml*, executar o comando *doc
 *console com o comando docker-compose up –d*<br /><br />
 
 ![image](https://user-images.githubusercontent.com/29930488/180606890-6caebf01-a9df-4923-816d-d35bfd381e5c.png)<br />
-*Container com a imagem do zookepper e o kafka*<br /><br />
+*Container com a imagem do zookepper e o kafka*<br />
 
 ### Com o container no ar, executar o projeto localmente (agro-tempo-producer e agro-tempo-consumer), no projeto agro-tempo-producer, via OpenApi, é mostrado os dois endpoints disponíveis (*http://localhost:8081/swagger-ui/index.html*).
 ![image](https://user-images.githubusercontent.com/29930488/180606932-5a8b1f5e-0eb6-4a9f-9609-7c3e6029ca7f.png)<br />
 *•	O método /enviar permite realizar um POST com o objeto Drone.* <br />
-*•	O método /enviar/lista permite realizar um POST com uma lista de objetos Drone.* <br />
+*•	O método /enviar/lista permite realizar um POST com uma lista de objetos Drone.* <br /><br />
 
 ## PRINTS COM O FUNCIONAMENTO DA APLICAÇÃO
 
