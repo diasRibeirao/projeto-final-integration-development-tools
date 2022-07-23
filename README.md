@@ -27,8 +27,8 @@
 ## SOBRE A PROJETO
 ### Implementação de um Producer e um Consumer no Apache Kafka, utilizando Java com Spring Boot na versão 2.7.1
 ### O projeto possui dois serviços:
-#### **agro-tempo-producer:** Responsável por receber e enviar os dados de um objeto drone ou uma lista de objetos drone para o serviço de consumer
-#### **agro-tempo-consumer:** Responsável por consumir os dados enviados do producer, caso a temperatura seja maior ou igual a 35 ou menor ou igual 0, ou a umidade seja menor ou igual a 15% envia e-mail com o o id_drone e os valores capturados.
+**agro-tempo-producer:** Responsável por receber e enviar os dados de um objeto drone ou uma lista de objetos drone para o serviço de consumer
+**agro-tempo-consumer:** Responsável por consumir os dados enviados do producer, caso a temperatura seja maior ou igual a 35 ou menor ou igual 0, ou a umidade seja menor ou igual a 15% envia e-mail com o o id_drone e os valores capturados.
 <br />
 
 ## COMO RODAR O PROJETO?
