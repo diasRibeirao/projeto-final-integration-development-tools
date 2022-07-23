@@ -13,10 +13,9 @@ public class Drone {
 
 	private Long id;
 	private Double latitude = Double.MIN_VALUE;
-    private Double longitude = Double.MIN_VALUE;
-    private Double temperatura = Double.MIN_VALUE;
-    private Double umidade = Double.MIN_VALUE;
+	private Double longitude = Double.MIN_VALUE;
+	private Double temperatura = Double.MIN_VALUE;
+	private Double umidade = Double.MIN_VALUE;
 	private Boolean rastrear;
-	
-	
+
 }

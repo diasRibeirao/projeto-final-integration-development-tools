@@ -6,10 +6,10 @@ import org.springframework.kafka.annotation.EnableKafka;
 
 @EnableKafka
 @SpringBootApplication
-public class ProducerApplication {
+public class AgroTempoConsumerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProducerApplication.class, args);
+		SpringApplication.run(AgroTempoConsumerApplication.class, args);
 	}
 
 }
