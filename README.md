@@ -48,6 +48,20 @@ Dentro do diretório com o arquivo *docker-compose.yml*, executar o comando *doc
 *•	O método /enviar/lista permite realizar um POST com uma lista de objetos Drone.* <br /><br />
 
 ## PRINTS COM O FUNCIONAMENTO DA APLICAÇÃO
+![image](https://user-images.githubusercontent.com/29930488/180614622-0f1caff3-7450-4595-940e-c4cb6ec7f0a2.png)
+![image](https://user-images.githubusercontent.com/29930488/180614636-59fb02a2-f391-430c-91ac-14ebb5ba0ffa.png)
+*Enviando um objeto drone com os dados capturados*<br />
+
+![image](https://user-images.githubusercontent.com/29930488/180614779-3b8f5514-93a4-4b3a-a407-6dff584ce92a.png)
+*Producer no ar e enviando informações coletadas do drone*<br />
+
+![image](https://user-images.githubusercontent.com/29930488/180614818-5980017f-d073-4da7-917c-1abab8d043dd.png)
+*Consumer no ar e recebendo informações coletadas do drone*<br />
+
+
+
+
+
 
 
 
