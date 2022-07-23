@@ -72,13 +72,19 @@ Dentro do diretório com o arquivo *docker-compose.yml*, executar o comando *doc
 *Enviando uma lista objetos drone com as informações coletadas*<br /><br />
 
 ![image](https://user-images.githubusercontent.com/29930488/180615141-ee0ae82c-a309-4ef0-a521-717899995a5e.png)
-*Producer no ar e enviando informações coletadas do drone*<br /><br />
+*Producer no ar e enviando informações coletadas dos drones*<br /><br />
 
 ![image](https://user-images.githubusercontent.com/29930488/180615160-91d6f36c-965c-4b21-9bc8-a613b13dc817.png)
-*Consumer no ar e recebendo informações coletadas do drone*<br /><br />
+*Consumer no ar e recebendo informações coletadas dos drones*<br /><br />
 
+![image](https://user-images.githubusercontent.com/29930488/180615209-466463a7-4889-4cf0-b7af-638422a894a2.png)
+*Enviando uma lista objetos drone com as informações coletadas com um drone com informações fora dos padrões de temperatura e umidade*<br /><br />
 
+![image](https://user-images.githubusercontent.com/29930488/180615307-a454d320-a840-440d-be0c-72175790874b.png)
+*Producer no ar e enviando informações coletadas dos dronse*<br /><br />
 
+![image](https://user-images.githubusercontent.com/29930488/180615255-8e69d797-7c08-4d11-aa74-ca4d141ba47a.png)
+*Consumer no ar e recebendo informações coletadas dos drones, sendo que um deles de id 3 enviou dados fora dos padrões*<br /><br />
 
 
 
